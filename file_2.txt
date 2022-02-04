@@ -1,0 +1,6 @@
+A new line so I can see diffs
+This is a git class
+On Friday morning
+We have way too much snow outside
+File 2 - New line 1
+File 2 - New line 2
