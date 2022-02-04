@@ -1,3 +1,4 @@
+A new line so I can see diffs
 This is a git class
 On Friday morning
 We have way too much snow outside
